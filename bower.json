@@ -1,0 +1,26 @@
+me": "keirus",
+  "version": "1.0",
+  "homepage": "https://test.com/",
+  "authors": [
+    "shysaba"
+  ],
+  "description": "Test project",
+  "keywords": [
+    "test",
+    "project"
+  ],
+  "license": "Apache",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "pages",
+    "index.html",
+    "/js"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.1"
+  }
+}
